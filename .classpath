@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/seg.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="lib/informa.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/je-4.0.103.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml-1.9.14.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/juniversalchardet-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.3.1.jar" sourcepath="F:/lucene/lucene-4.4.0-src/lucene-4.4.0/analysis/common/src/java"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.4.0.jar" sourcepath="F:/lucene/lucene-4.4.0-src/lucene-4.4.0/core/src/java"/>
+	<classpathentry kind="lib" path="lib/lucene-highlighter-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-codecs-4.4.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

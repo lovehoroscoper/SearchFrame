@@ -1,0 +1,13 @@
+/Grammar.class
+/NonTerminal.class
+/NonTerminalProduction.class
+/Parser.class
+/Production.class
+/RecursiveDescentParser.class
+/ShiftReduceParser.class
+/ShiftReduceParserTest.class
+/Symbol.class
+/Terminal.class
+/TerminalProduction.class
+/TimeFliesGrammar.class
+/TimeFliesGrammarCNF.class

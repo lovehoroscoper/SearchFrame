@@ -1,0 +1,36 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<!--
+ Copyright (c) 2011-2012 Lietu.com
+ All rights reserved.
+-->
+<html>
+<body>
+seg  分词
+<p>
+bseg 逆向最大长度匹配分词
+<p>
+unigramSeg 一元分词
+<p>
+unigrambigramSeg 一元分词的改进版本
+<p>
+
+<p>
+prob 概率
+<p>
+dp 动态规划
+<p>
+math 数学相关的类
+<p>
+netProgramming 网络编程
+<p>
+string 字符串相关的工具类
+<p>
+object 对象
+<p>
+levenshteinAutomata 编辑距离
+<p>
+text 文本处理
+<p>
+multiThread 多线程
+</body>
+</html>
